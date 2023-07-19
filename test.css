@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Books-To-Read-for-a-PRINCE2.jpg');
+    background-size: cover;
+    padding: 8px;
+    border-radius: 10px;
+    text-align: right;
+}
+
+.main-heading {
+    font-family: "bree serif";
+    font-weight: bold;
+    font-size: 46px;
+    color: #323f4b;
+}
+
+.sub-heading {
+    font-family: "caveat";
+    font-weight: bold;
+
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.paragraph1 {
+    font-family: "caveat";
+    background-color: blue;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.paragraph2 {
+    font-family: "caveat";
+    font-weight: bold;
+    font-size: 30px;
+    background-color: yellow;
+    color: #323f4b;
+}
+
+.button {
+    border-radius: 6px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-width: 0px;
+    width: 100px;
+}
